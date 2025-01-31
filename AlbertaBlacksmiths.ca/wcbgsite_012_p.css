@@ -1,0 +1,193 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc45               { /* Common */
+	font            : italic bold 10pt 'Arial Narrow', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+.cc46               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc47               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc48               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+img#e22             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 266.25pt;
+	top             : 629.25pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e21             { /* Return To Gallery Index */
+	position        : absolute;
+	left            : 272.25pt;
+	top             : 633.00pt;
+	width           : 117.00pt;
+	height          :  12.75pt;
+	}
+div#e20             { /* 2 Lb Hammer Made With De... */
+	position        : absolute;
+	left            :  34.50pt;
+	top             : 261.00pt;
+	width           : 151.50pt;
+	height          :  27.00pt;
+	}
+div#e19             { /* Back to top of page */
+	position        : absolute;
+	left            : 284.25pt;
+	top             : 594.00pt;
+	width           : 106.50pt;
+	height          :  14.25pt;
+	}
+img#e18             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 263.25pt;
+	top             : 592.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e17             { /* Tools */
+	position        : absolute;
+	left            :  18.75pt;
+	top             :  99.00pt;
+	width           : 119.25pt;
+	height          :  19.50pt;
+	}
+span#e16            { /* wcbgsite012007.gif */
+	clip            : rect(0.00pt,595.50pt,8.25pt,0.00pt);
+	background      : transparent url(wcbgsite012007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  52.50pt;
+	width           : 595.50pt;
+	height          :   8.25pt;
+	}
+img#e15             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 275.25pt;
+	top             :  78.75pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e14             { /* Return To Gallery Index */
+	position        : absolute;
+	left            : 280.50pt;
+	top             :  81.75pt;
+	width           : 117.00pt;
+	height          :  12.75pt;
+	}
+h4#e13              { /* Gallery */
+	text-align      : right;
+	position        : absolute;
+	left            : 484.50pt;
+	top             :  75.75pt;
+	width           : 144.00pt;
+	height          :  21.75pt;
+	}
+span#e12            { /* wcbgsite012006.jpg */
+	background      : transparent url(wcbgsite012006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 124.50pt;
+	width           : 168.75pt;
+	height          : 127.50pt;
+	}
+span#e11            { /* wcbgsite012005.jpg */
+	background      : transparent url(wcbgsite012005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 225.75pt;
+	top             : 126.75pt;
+	width           : 165.00pt;
+	height          : 123.75pt;
+	}
+div#e10             { /* Hammer before cutting it... */
+	position        : absolute;
+	left            : 222.00pt;
+	top             : 261.00pt;
+	width           : 152.25pt;
+	height          :  15.00pt;
+	}
+span#e9             { /* wcbgsite012004.jpg */
+	background      : transparent url(wcbgsite012004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 318.75pt;
+	width           : 169.50pt;
+	height          : 127.50pt;
+	}
+div#e8              { /* Leg Vise, showing cover ... */
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 457.50pt;
+	width           : 152.25pt;
+	height          :  27.00pt;
+	}
+span#e7             { /* wcbgsite012003.jpg */
+	background      : transparent url(wcbgsite012003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 225.00pt;
+	top             : 320.25pt;
+	width           : 166.50pt;
+	height          : 125.25pt;
+	}
+div#e6              { /* Ratchet on Post Drill */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 459.00pt;
+	width           : 152.25pt;
+	height          :  15.00pt;
+	}
+span#e5             { /* wcbgsite012002.jpg */
+	background      : transparent url(wcbgsite012002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 404.25pt;
+	top             : 127.50pt;
+	width           : 236.25pt;
+	height          : 316.50pt;
+	}
+div#e4              { /* Propane Forge */
+	position        : absolute;
+	left            : 406.50pt;
+	top             : 448.50pt;
+	width           : 152.25pt;
+	height          :  15.00pt;
+	}
+div#e3              { /* Copyright, Don Sinclaire... */
+	position        : absolute;
+	left            : 261.75pt;
+	top             : 503.25pt;
+	width           : 171.75pt;
+	height          :  14.25pt;
+	}
+h1#e2               { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e1             { /* wcbgsite009001.jpg */
+	background      : transparent url(wcbgsite009001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             :  12.00pt;
+	width           :  86.25pt;
+	height          :  80.25pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

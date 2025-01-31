@@ -1,0 +1,21 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc29               { /* Common */
+	font            : 24pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+div#e1              { /* Unused Page for future u... */
+	position        : absolute;
+	left            : 114.75pt;
+	top             : 270.00pt;
+	width           : 458.25pt;
+	height          : 141.00pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

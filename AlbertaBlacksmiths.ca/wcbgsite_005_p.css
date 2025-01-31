@@ -1,0 +1,347 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc21               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc22               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc23               { /* Common */
+	font            : italic bold 10pt 'Arial Narrow', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+span#e42            { /* wcbgsite001008.gif */
+	background      : transparent url(wcbgsite001008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             :  30.75pt;
+	width           : 140.25pt;
+	height          : 377.25pt;
+	}
+span#e41            { /* wcbgsite005008.gif */
+	clip            : rect(0.00pt,591.00pt,7.50pt,0.00pt);
+	background      : transparent url(wcbgsite005008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  52.50pt;
+	width           : 591.00pt;
+	height          :   7.50pt;
+	}
+span#e40            { /* wcbgsite004003.gif */
+	clip            : rect(0.00pt,600.75pt,0.75pt,0.00pt);
+	background      : transparent url(wcbgsite004003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 464.25pt;
+	width           : 600.75pt;
+	height          :   0.75pt;
+	}
+h6#e39              { /* Contact Us */
+	position        : absolute;
+	left            : 275.25pt;
+	top             : 468.00pt;
+	width           : 114.00pt;
+	height          :  12.00pt;
+	}
+h4#e38              { /* Gallery Index */
+	text-align      : right;
+	position        : absolute;
+	left            : 512.25pt;
+	top             :  62.25pt;
+	width           : 115.50pt;
+	height          :  21.00pt;
+	}
+div#e37             { /* Members' Projects */
+	position        : absolute;
+	left            : 448.50pt;
+	top             : 102.00pt;
+	width           :  95.25pt;
+	height          :  15.75pt;
+	}
+div#e36             { /* Group Projects */
+	position        : absolute;
+	left            : 225.00pt;
+	top             : 108.75pt;
+	width           : 183.75pt;
+	height          :  14.25pt;
+	}
+img#e35             { /* wcbgsite005007.jpg */
+	position        : absolute;
+	left            : 226.50pt;
+	top             : 123.00pt;
+	width           : 105.00pt;
+	height          :  78.75pt;
+	}
+img#e34             { /* wcbgsite005006.jpg */
+	position        : absolute;
+	left            : 222.75pt;
+	top             : 366.75pt;
+	width           : 119.25pt;
+	height          :  89.25pt;
+	}
+img#e33             { /* wcbgsite005005.jpg */
+	position        : absolute;
+	left            : 450.00pt;
+	top             : 116.25pt;
+	width           : 111.75pt;
+	height          :  84.00pt;
+	}
+img#e32             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 243.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e31             { /* Home */
+	color           : #00ff00;
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             :  81.00pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+a#a31               { /* Home */
+	color           : #00ff00;
+	}
+div#e30             { /* Meetings & Events */
+	text-align      : left;
+	position        : absolute;
+	left            :  60.75pt;
+	top             : 108.75pt;
+	width           :  98.25pt;
+	height          :  14.25pt;
+	}
+div#e29             { /* Resources */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 136.50pt;
+	width           :  81.75pt;
+	height          :  26.25pt;
+	}
+div#e28             { /* News */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 164.25pt;
+	width           :  81.75pt;
+	height          :  20.25pt;
+	}
+div#e27             { /* Links */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 218.25pt;
+	width           :  81.75pt;
+	height          :  17.25pt;
+	}
+div#e26             { /* Membership Form */
+	text-align      : left;
+	position        : absolute;
+	left            :  60.00pt;
+	top             : 241.50pt;
+	width           :  81.75pt;
+	height          :  26.25pt;
+	}
+div#e25             { /* Gallery */
+	text-align      : left;
+	position        : absolute;
+	left            :  62.25pt;
+	top             : 189.00pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e24             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 219.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e23             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 187.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e22             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 164.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e21             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 137.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e20             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 109.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e19             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  81.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e18             { /* Projects */
+	position        : absolute;
+	left            : 213.75pt;
+	top             :  93.75pt;
+	width           :  96.00pt;
+	height          :  20.25pt;
+	}
+img#e17             { /* wcbgsite005004.jpg */
+	position        : absolute;
+	left            : 225.75pt;
+	top             : 243.00pt;
+	width           : 111.75pt;
+	height          :  84.00pt;
+	}
+div#e16             { /* Members and Activities */
+	position        : absolute;
+	left            : 210.75pt;
+	top             : 218.25pt;
+	width           : 168.75pt;
+	height          :  23.25pt;
+	}
+div#e15             { /* Tools */
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 343.50pt;
+	width           : 119.25pt;
+	height          :  19.50pt;
+	}
+img#e14             { /* wcbgsite005002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 189.75pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+div#e13             { /* More */
+	position        : absolute;
+	left            : 342.75pt;
+	top             : 189.75pt;
+	width           :  38.25pt;
+	height          :  15.00pt;
+	}
+img#e12             { /* wcbgsite005002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 565.50pt;
+	top             : 188.25pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+div#e11             { /* More */
+	position        : absolute;
+	left            : 570.75pt;
+	top             : 189.00pt;
+	width           :  30.00pt;
+	height          :  12.75pt;
+	}
+img#e10             { /* wcbgsite005002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 341.25pt;
+	top             : 313.50pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+div#e9              { /* More */
+	position        : absolute;
+	left            : 347.25pt;
+	top             : 314.25pt;
+	width           :  30.00pt;
+	height          :  12.75pt;
+	}
+img#e8              { /* wcbgsite005002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 347.25pt;
+	top             : 442.50pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+div#e7              { /* More */
+	position        : absolute;
+	left            : 352.50pt;
+	top             : 443.25pt;
+	width           :  30.00pt;
+	height          :  12.75pt;
+	}
+img#e6              { /* wcbgsite005003.jpg */
+	position        : absolute;
+	left            : 441.00pt;
+	top             : 364.50pt;
+	width           : 120.00pt;
+	height          :  89.25pt;
+	}
+div#e5              { /* Machinery */
+	position        : absolute;
+	left            : 426.00pt;
+	top             : 340.50pt;
+	width           : 119.25pt;
+	height          :  19.50pt;
+	}
+img#e4              { /* wcbgsite005002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 564.75pt;
+	top             : 441.00pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+div#e3              { /* More */
+	position        : absolute;
+	left            : 570.00pt;
+	top             : 441.75pt;
+	width           :  30.00pt;
+	height          :  12.75pt;
+	}
+h1#e2               { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e1             { /* wcbgsite001001.jpg */
+	background      : transparent url(wcbgsite001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 282.75pt;
+	width           : 139.50pt;
+	height          : 124.50pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

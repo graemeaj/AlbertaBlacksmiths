@@ -1,0 +1,429 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc40               { /* Common */
+	font            : italic bold 10pt 'Arial Narrow', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+.cc41               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc42               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc43               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc44               { /* Common */
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e53             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 258.75pt;
+	top             :2641.50pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e52             { /* Return To Gallery Index */
+	position        : absolute;
+	left            : 264.75pt;
+	top             :2645.25pt;
+	width           : 117.00pt;
+	height          :  12.75pt;
+	}
+div#e51             { /* Carl, Bill, Bob and John */
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 298.50pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+div#e50             { /* Back to top of page */
+	position        : absolute;
+	left            : 276.75pt;
+	top             :2619.00pt;
+	width           : 106.50pt;
+	height          :  14.25pt;
+	}
+img#e49             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 255.75pt;
+	top             :2617.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e48             { /* Members and Activities */
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 107.25pt;
+	width           : 168.75pt;
+	height          :  23.25pt;
+	}
+span#e47            { /* wcbgsite011022.gif */
+	clip            : rect(0.00pt,586.50pt,7.50pt,0.00pt);
+	background      : transparent url(wcbgsite011022.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  67.50pt;
+	width           : 586.50pt;
+	height          :   7.50pt;
+	}
+img#e46             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 258.75pt;
+	top             :  79.50pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e45             { /* Return To Gallery Index */
+	position        : absolute;
+	left            : 264.75pt;
+	top             :  83.25pt;
+	width           : 117.00pt;
+	height          :  12.75pt;
+	}
+h4#e44              { /* Gallery */
+	text-align      : right;
+	position        : absolute;
+	left            : 540.75pt;
+	top             :  79.50pt;
+	width           :  79.50pt;
+	height          :  23.25pt;
+	}
+span#e43            { /* wcbgsite011021.jpg */
+	background      : transparent url(wcbgsite011021.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 138.00pt;
+	width           : 207.75pt;
+	height          : 156.75pt;
+	}
+span#e42            { /* wcbgsite011020.jpg */
+	background      : transparent url(wcbgsite011020.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 260.25pt;
+	top             : 139.50pt;
+	width           : 213.75pt;
+	height          : 159.75pt;
+	}
+div#e41             { /* Carl, Bernard and Scott */
+	position        : absolute;
+	left            : 263.25pt;
+	top             : 302.25pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+span#e40            { /* wcbgsite011019.jpg */
+	background      : transparent url(wcbgsite011019.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 484.50pt;
+	top             : 108.75pt;
+	width           : 144.00pt;
+	height          : 192.75pt;
+	}
+div#e39             { /* At John's Hammer-In */
+	position        : absolute;
+	left            : 491.25pt;
+	top             : 302.25pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+span#e38            { /* wcbgsite011018.jpg */
+	background      : transparent url(wcbgsite011018.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 324.75pt;
+	width           : 178.50pt;
+	height          : 132.75pt;
+	}
+div#e37             { /* At John's Hammer-In */
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 456.75pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+span#e36            { /* wcbgsite011017.jpg */
+	background      : transparent url(wcbgsite011017.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 225.00pt;
+	top             : 324.00pt;
+	width           : 198.75pt;
+	height          : 133.50pt;
+	}
+span#e35            { /* wcbgsite011016.jpg */
+	background      : transparent url(wcbgsite011016.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 438.00pt;
+	top             : 326.25pt;
+	width           : 198.75pt;
+	height          : 132.75pt;
+	}
+span#e34            { /* wcbgsite011015.jpg */
+	background      : transparent url(wcbgsite011015.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  37.50pt;
+	top             : 484.50pt;
+	width           : 182.25pt;
+	height          : 137.25pt;
+	}
+div#e33             { /* At John's Hammer-In */
+	position        : absolute;
+	left            : 221.25pt;
+	top             : 459.00pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+div#e32             { /* At John's Hammer-In */
+	position        : absolute;
+	left            : 435.75pt;
+	top             : 459.75pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+div#e31             { /* At John's Hammer-In */
+	position        : absolute;
+	left            :  39.75pt;
+	top             : 624.00pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+span#e30            { /* wcbgsite011014.jpg */
+	background      : transparent url(wcbgsite011014.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 486.75pt;
+	width           : 182.25pt;
+	height          : 138.00pt;
+	}
+span#e29            { /* wcbgsite011013.jpg */
+	background      : transparent url(wcbgsite011013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 453.00pt;
+	top             : 486.00pt;
+	width           : 183.00pt;
+	height          : 137.25pt;
+	}
+div#e28             { /* Leduc Shop */
+	position        : absolute;
+	left            : 243.75pt;
+	top             : 626.25pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+div#e27             { /* Leduc Shop - Hilton */
+	position        : absolute;
+	left            : 455.25pt;
+	top             : 624.00pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+span#e26            { /* wcbgsite011012.jpg */
+	background      : transparent url(wcbgsite011012.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  37.50pt;
+	top             : 655.50pt;
+	width           : 144.75pt;
+	height          : 192.75pt;
+	}
+span#e25            { /* wcbgsite011011.jpg */
+	background      : transparent url(wcbgsite011011.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 194.25pt;
+	top             : 660.00pt;
+	width           : 141.75pt;
+	height          : 189.00pt;
+	}
+span#e24            { /* wcbgsite011010.jpg */
+	background      : transparent url(wcbgsite011010.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 345.75pt;
+	top             : 657.75pt;
+	width           : 142.50pt;
+	height          : 188.25pt;
+	}
+div#e23             { /* Leduc Shop */
+	position        : absolute;
+	left            :  36.75pt;
+	top             : 849.00pt;
+	width           : 110.25pt;
+	height          :  15.00pt;
+	}
+div#e22             { /* Leduc Shop - Jack */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 848.25pt;
+	width           :  95.25pt;
+	height          :  15.00pt;
+	}
+div#e21             { /* Leduc Shop - Jerry */
+	position        : absolute;
+	left            : 344.25pt;
+	top             : 846.75pt;
+	width           :  95.25pt;
+	height          :  15.00pt;
+	}
+span#e20            { /* wcbgsite011009.jpg */
+	background      : transparent url(wcbgsite011009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 871.50pt;
+	width           : 186.00pt;
+	height          : 140.25pt;
+	}
+span#e19            { /* wcbgsite011008.jpg */
+	background      : transparent url(wcbgsite011008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 244.50pt;
+	top             : 873.75pt;
+	width           : 183.75pt;
+	height          : 138.00pt;
+	}
+span#e18            { /* wcbgsite011007.jpg */
+	background      : transparent url(wcbgsite011007.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 445.50pt;
+	top             : 873.00pt;
+	width           : 188.25pt;
+	height          : 141.75pt;
+	}
+div#e17             { /* Leduc Shop - Scott */
+	position        : absolute;
+	left            :  42.75pt;
+	top             :1012.50pt;
+	width           :  95.25pt;
+	height          :  15.00pt;
+	}
+div#e16             { /* John and Jerry */
+	position        : absolute;
+	left            : 244.50pt;
+	top             :1014.75pt;
+	width           :  95.25pt;
+	height          :  15.00pt;
+	}
+div#e15             { /* Hilton */
+	position        : absolute;
+	left            : 443.25pt;
+	top             :1017.75pt;
+	width           :  95.25pt;
+	height          :  15.00pt;
+	}
+span#e14            { /* wcbgsite011006.jpg */
+	background      : transparent url(wcbgsite011006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  44.25pt;
+	top             :1037.25pt;
+	width           : 177.00pt;
+	height          : 235.50pt;
+	}
+div#e13             { /* Rhett using Roseann's Po... */
+	position        : absolute;
+	left            :  42.75pt;
+	top             :1276.50pt;
+	width           : 179.25pt;
+	height          :  14.25pt;
+	}
+div#e12             { /* Copyright, Don Sinclaire... */
+	position        : absolute;
+	left            : 242.25pt;
+	top             :2603.25pt;
+	width           : 171.75pt;
+	height          :  14.25pt;
+	}
+h1#e11              { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e10            { /* wcbgsite009001.jpg */
+	background      : transparent url(wcbgsite009001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             :  12.00pt;
+	width           :  86.25pt;
+	height          :  80.25pt;
+	}
+div#e9              { /* WCBG Demos for 2011 */
+	position        : absolute;
+	left            :  39.00pt;
+	top             :1322.25pt;
+	width           : 246.75pt;
+	height          :  24.00pt;
+	}
+div#e8              { /* At George Pegg Botanical... */
+	position        : absolute;
+	left            :  44.25pt;
+	top             :1656.75pt;
+	width           : 179.25pt;
+	height          :  14.25pt;
+	}
+span#e7             { /* wcbgsite011004.jpg */
+	background      : transparent url(wcbgsite011004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  44.25pt;
+	top             :1356.75pt;
+	width           : 552.75pt;
+	height          : 297.00pt;
+	}
+div#e6              { /* Dennis at Mayerthorpe, A... */
+	position        : absolute;
+	left            :  41.25pt;
+	top             :2109.75pt;
+	width           : 179.25pt;
+	height          :  14.25pt;
+	}
+span#e5             { /* wcbgsite011003.jpg */
+	background      : transparent url(wcbgsite011003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.75pt;
+	top             :1688.25pt;
+	width           : 559.50pt;
+	height          : 420.00pt;
+	}
+div#e4              { /* Scott at Rochfort Bridge */
+	position        : absolute;
+	left            :  44.25pt;
+	top             :2533.50pt;
+	width           : 179.25pt;
+	height          :  14.25pt;
+	}
+span#e3             { /* wcbgsite011002.jpg */
+	background      : transparent url(wcbgsite011002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  44.25pt;
+	top             :2139.00pt;
+	width           : 291.75pt;
+	height          : 388.50pt;
+	}
+div#e2              { /* Portable Equipment Setup... */
+	position        : absolute;
+	left            : 348.75pt;
+	top             :2535.75pt;
+	width           : 179.25pt;
+	height          :  14.25pt;
+	}
+span#e1             { /* wcbgsite011001.jpg */
+	background      : transparent url(wcbgsite011001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 348.75pt;
+	top             :2139.75pt;
+	width           : 293.25pt;
+	height          : 390.75pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,392 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc12               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc13               { /* Common */
+	font            : italic bold 14pt 'Arial Narrow', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+.cc14               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc15               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000080;
+	}
+.cc16               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e47            { /* wcbgsite001008.gif */
+	background      : transparent url(wcbgsite001008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             :  30.75pt;
+	width           : 140.25pt;
+	height          : 377.25pt;
+	}
+span#e46            { /* wcbgsite003009.gif */
+	clip            : rect(0.00pt,590.25pt,7.50pt,0.00pt);
+	background      : transparent url(wcbgsite003009.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  52.50pt;
+	width           : 590.25pt;
+	height          :   7.50pt;
+	}
+span#e45            { /* wcbgsite003008.gif */
+	clip            : rect(0.00pt,594.75pt,0.75pt,0.00pt);
+	background      : transparent url(wcbgsite003008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  29.25pt;
+	top             :1789.50pt;
+	width           : 594.75pt;
+	height          :   0.75pt;
+	}
+h4#e44              { /* Resources */
+	text-align      : right;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  61.50pt;
+	width           :  97.50pt;
+	height          :  21.75pt;
+	}
+h6#e43              { /* Contact Us */
+	position        : absolute;
+	left            : 255.75pt;
+	top             :1794.00pt;
+	width           : 142.50pt;
+	height          :  15.00pt;
+	}
+div#e42             { /* Back to top of page */
+	position        : absolute;
+	left            : 289.50pt;
+	top             :1818.00pt;
+	width           : 106.50pt;
+	height          :  14.25pt;
+	}
+img#e41             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 268.50pt;
+	top             :1816.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e40             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 243.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e39             { /* Home */
+	color           : #00ff00;
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             :  81.00pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+a#a39               { /* Home */
+	color           : #00ff00;
+	}
+div#e38             { /* Meetings & Events */
+	text-align      : left;
+	position        : absolute;
+	left            :  60.75pt;
+	top             : 108.75pt;
+	width           :  98.25pt;
+	height          :  14.25pt;
+	}
+div#e37             { /* Resources */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 136.50pt;
+	width           :  81.75pt;
+	height          :  26.25pt;
+	}
+div#e36             { /* News */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 164.25pt;
+	width           :  81.75pt;
+	height          :  20.25pt;
+	}
+div#e35             { /* Links */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 218.25pt;
+	width           :  81.75pt;
+	height          :  17.25pt;
+	}
+div#e34             { /* Membership Form */
+	text-align      : left;
+	position        : absolute;
+	left            :  60.00pt;
+	top             : 241.50pt;
+	width           :  81.75pt;
+	height          :  26.25pt;
+	}
+div#e33             { /* Gallery */
+	text-align      : left;
+	position        : absolute;
+	left            :  62.25pt;
+	top             : 189.00pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e32             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 219.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e31             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 187.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e30             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 164.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e29             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 137.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e28             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 109.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e27             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  81.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+h1#e26              { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e25            { /* wcbgsite001001.jpg */
+	background      : transparent url(wcbgsite001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 282.75pt;
+	width           : 139.50pt;
+	height          : 124.50pt;
+	}
+img#e24             { /* wcbgsite003006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 114.75pt;
+	top             :1581.75pt;
+	width           :  54.00pt;
+	height          :  22.50pt;
+	}
+div#e23             { /* More */
+	position        : absolute;
+	left            : 123.75pt;
+	top             :1584.00pt;
+	width           :  29.25pt;
+	height          :  27.00pt;
+	}
+div#e22             { /* Click  for more details ... */
+	position        : absolute;
+	left            : 174.00pt;
+	top             :1587.00pt;
+	width           : 399.00pt;
+	height          :  50.25pt;
+	}
+div#e21             { /* Courses */
+	position        : absolute;
+	left            : 204.00pt;
+	top             :  87.00pt;
+	width           :  51.75pt;
+	height          :  22.50pt;
+	}
+div#e20             { /* Some Recommended Books */
+	position        : absolute;
+	left            : 206.25pt;
+	top             : 309.75pt;
+	width           : 205.50pt;
+	height          :  17.25pt;
+	}
+div#e19             { /* Some Recommended Website... */
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 450.75pt;
+	width           : 205.50pt;
+	height          :  17.25pt;
+	}
+div#e18             { /* Steel */
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 589.50pt;
+	width           : 205.50pt;
+	height          :  17.25pt;
+	}
+div#e17             { /* Tools */
+	position        : absolute;
+	left            :  39.00pt;
+	top             : 817.50pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+div#e16             { /* Coal */
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 921.00pt;
+	width           : 124.50pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* \ \For over a decade, ou... */
+	position        : absolute;
+	left            :  39.75pt;
+	top             : 928.50pt;
+	width           : 591.75pt;
+	height          : 600.75pt;
+	}
+div#e14             { /* We do not offer any exte... */
+	position        : absolute;
+	left            : 206.25pt;
+	top             : 102.75pt;
+	width           : 440.25pt;
+	height          : 159.00pt;
+	}
+div#e13             { /* The Complete Modern Blac... */
+	position        : absolute;
+	left            : 204.75pt;
+	top             : 326.25pt;
+	width           : 339.00pt;
+	height          :  87.75pt;
+	}
+div#e12             { /* We are affiliated with T... */
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 468.75pt;
+	width           : 396.75pt;
+	height          : 116.25pt;
+	}
+div#e11             { /* If you are starting out,... */
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 606.75pt;
+	width           : 600.00pt;
+	height          : 201.75pt;
+	}
+div#e10             { /* \ \Hand tools are availa... */
+	position        : absolute;
+	left            :  41.25pt;
+	top             : 822.75pt;
+	width           : 600.00pt;
+	height          :  87.75pt;
+	}
+h6#e9               { /* Contact Us */
+	position        : absolute;
+	left            : 441.00pt;
+	top             : 150.00pt;
+	width           : 142.50pt;
+	height          :  15.00pt;
+	}
+div#e8              { /* Knife Making Supplies */
+	position        : absolute;
+	left            :  47.25pt;
+	top             :1678.50pt;
+	width           : 191.25pt;
+	height          :  24.00pt;
+	}
+div#e7              { /* Canadian Knifemaker Supp... */
+	position        : absolute;
+	left            :  48.75pt;
+	top             :1701.00pt;
+	width           : 532.50pt;
+	height          :  59.25pt;
+	}
+img#e6              { /* wcbgsite003005.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 391.50pt;
+	top             :1700.25pt;
+	width           :  21.00pt;
+	height          :  22.50pt;
+	}
+div#e5              { /* http://www.knifemaker.ca... */
+	position        : absolute;
+	left            : 255.00pt;
+	top             :1697.25pt;
+	width           : 139.50pt;
+	height          :  15.75pt;
+	}
+img#e4              { /* wcbgsite003004.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 534.75pt;
+	top             : 257.25pt;
+	width           :  21.00pt;
+	height          :  21.00pt;
+	}
+img#e3              { /* wcbgsite003001.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 269.25pt;
+	top             : 567.75pt;
+	width           :  17.25pt;
+	height          :  18.00pt;
+	}
+img#e2              { /* wcbgsite003002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 222.75pt;
+	top             : 483.00pt;
+	width           :  18.75pt;
+	height          :  18.75pt;
+	}
+img#e1              { /* wcbgsite003001.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 210.00pt;
+	top             : 538.50pt;
+	width           :  17.25pt;
+	height          :  18.00pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

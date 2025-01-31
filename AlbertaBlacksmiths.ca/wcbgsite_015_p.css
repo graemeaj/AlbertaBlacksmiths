@@ -1,0 +1,159 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc57               { /* Common */
+	font            : italic bold 10pt 'Arial Narrow', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+.cc58               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc59               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc60               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+.cc61               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e17             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 263.25pt;
+	top             :1856.25pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e16             { /* Return To Machinery Page */
+	position        : absolute;
+	left            : 269.25pt;
+	top             :1860.00pt;
+	width           : 117.00pt;
+	height          :  14.25pt;
+	}
+div#e15             { /* Back to top of page */
+	position        : absolute;
+	left            : 281.25pt;
+	top             :1836.00pt;
+	width           : 106.50pt;
+	height          :  14.25pt;
+	}
+img#e14             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 260.25pt;
+	top             :1834.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e13             { /* Power Hammer */
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 105.00pt;
+	width           : 119.25pt;
+	height          :  19.50pt;
+	}
+span#e12            { /* wcbgsite009007.gif */
+	clip            : rect(0.00pt,589.50pt,7.50pt,0.00pt);
+	background      : transparent url(wcbgsite009007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  54.00pt;
+	width           : 589.50pt;
+	height          :   7.50pt;
+	}
+img#e11             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 294.00pt;
+	top             :  70.50pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e10             { /* Return To Machinery Page */
+	position        : absolute;
+	left            : 300.00pt;
+	top             :  74.25pt;
+	width           : 117.00pt;
+	height          :  14.25pt;
+	}
+h4#e9               { /* Gallery */
+	text-align      : right;
+	position        : absolute;
+	left            : 525.00pt;
+	top             :  78.75pt;
+	width           :  97.50pt;
+	height          :  18.75pt;
+	}
+span#e8             { /* wcbgsite015003.jpg */
+	background      : transparent url(wcbgsite015003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  44.25pt;
+	top             : 129.75pt;
+	width           : 589.50pt;
+	height          : 810.75pt;
+	}
+span#e7             { /* wcbgsite015002.jpg */
+	background      : transparent url(wcbgsite015002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 968.25pt;
+	width           : 570.00pt;
+	height          : 743.25pt;
+	}
+div#e6              { /* Power Hammer Drawing - T... */
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 893.25pt;
+	width           : 417.75pt;
+	height          :  30.75pt;
+	}
+div#e5              { /* Power Hammer Ram and Gui... */
+	position        : absolute;
+	left            :  46.50pt;
+	top             :1734.00pt;
+	width           : 505.50pt;
+	height          :  62.25pt;
+	}
+div#e4              { /* Copyright, Don Sinclaire... */
+	position        : absolute;
+	left            : 266.25pt;
+	top             :1813.50pt;
+	width           : 171.75pt;
+	height          :  14.25pt;
+	}
+h1#e3               { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e2             { /* wcbgsite009001.jpg */
+	background      : transparent url(wcbgsite009001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             :  12.00pt;
+	width           :  86.25pt;
+	height          :  80.25pt;
+	}
+div#e1              { /* <A href="http://www.appa... */
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 920.25pt;
+	width           : 234.75pt;
+	height          :  22.50pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

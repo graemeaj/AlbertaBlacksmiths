@@ -1,0 +1,180 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc30               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc31               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc32               { /* Common */
+	font            : italic bold 10pt 'Arial Narrow', Helvetica, sans-serif;
+	color           : #ffff00;
+	}
+.cc33               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc34               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc35               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+div#e19             { /* 2010 Group Project:  Bir... */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 120.75pt;
+	width           : 183.75pt;
+	height          :  15.75pt;
+	}
+span#e18            { /* wcbgsite009008.jpg */
+	background      : transparent url(wcbgsite009008.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  21.75pt;
+	top             : 518.25pt;
+	width           : 259.50pt;
+	height          : 194.25pt;
+	}
+div#e17             { /* Group Projects */
+	position        : absolute;
+	left            :  10.50pt;
+	top             :  95.25pt;
+	width           : 161.25pt;
+	height          :  35.25pt;
+	}
+img#e16             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 260.25pt;
+	top             :1257.00pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e15             { /* Return To Gallery Index */
+	position        : absolute;
+	left            : 266.25pt;
+	top             :1260.75pt;
+	width           : 117.00pt;
+	height          :  12.75pt;
+	}
+div#e14             { /* Back to top of page */
+	position        : absolute;
+	left            : 277.50pt;
+	top             :1234.50pt;
+	width           : 106.50pt;
+	height          :  14.25pt;
+	}
+img#e13             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 256.50pt;
+	top             :1233.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e12            { /* wcbgsite009007.gif */
+	clip            : rect(0.00pt,589.50pt,7.50pt,0.00pt);
+	background      : transparent url(wcbgsite009007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  67.50pt;
+	width           : 589.50pt;
+	height          :   7.50pt;
+	}
+img#e11             { /* wcbgsite009006.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 267.75pt;
+	top             :  79.50pt;
+	width           : 115.50pt;
+	height          :  19.50pt;
+	}
+div#e10             { /* Return To Gallery Index */
+	position        : absolute;
+	left            : 273.75pt;
+	top             :  83.25pt;
+	width           : 117.00pt;
+	height          :  12.75pt;
+	}
+h4#e9               { /* Gallery */
+	text-align      : right;
+	position        : absolute;
+	left            : 559.50pt;
+	top             :  81.75pt;
+	width           :  66.00pt;
+	height          :  21.75pt;
+	}
+span#e8             { /* wcbgsite009005.jpg */
+	background      : transparent url(wcbgsite009005.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 305.25pt;
+	top             : 396.75pt;
+	width           : 237.00pt;
+	height          : 314.25pt;
+	}
+span#e7             { /* wcbgsite009004.jpg */
+	background      : transparent url(wcbgsite009004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 301.50pt;
+	top             : 138.00pt;
+	width           : 321.75pt;
+	height          : 241.50pt;
+	}
+span#e6             { /* wcbgsite009003.jpg */
+	background      : transparent url(wcbgsite009003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 136.50pt;
+	width           : 256.50pt;
+	height          : 341.25pt;
+	}
+span#e5             { /* wcbgsite009002.jpg */
+	background      : transparent url(wcbgsite009002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  26.25pt;
+	top             : 782.25pt;
+	width           : 417.75pt;
+	height          : 278.25pt;
+	}
+div#e4              { /* Parts for the 2004 Bird ... */
+	position        : absolute;
+	left            :  27.00pt;
+	top             :1065.00pt;
+	width           : 252.75pt;
+	height          :  37.50pt;
+	}
+div#e3              { /* Copyright, Don Sinclaire... */
+	position        : absolute;
+	left            : 237.75pt;
+	top             :1212.00pt;
+	width           : 171.75pt;
+	height          :  14.25pt;
+	}
+h1#e2               { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e1             { /* wcbgsite009001.jpg */
+	background      : transparent url(wcbgsite009001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  58.50pt;
+	top             :  12.00pt;
+	width           :  86.25pt;
+	height          :  80.25pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/

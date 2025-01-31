@@ -1,0 +1,395 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc24               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc25               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e50            { /* wcbgsite001008.gif */
+	background      : transparent url(wcbgsite001008.gif) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             :  30.75pt;
+	width           : 140.25pt;
+	height          : 377.25pt;
+	}
+span#e49            { /* wcbgsite001007.gif */
+	clip            : rect(0.00pt,591.75pt,7.50pt,0.00pt);
+	background      : transparent url(wcbgsite001007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  33.75pt;
+	top             :  52.50pt;
+	width           : 591.75pt;
+	height          :   7.50pt;
+	}
+span#e48            { /* wcbgsite006003.gif */
+	clip            : rect(0.00pt,594.00pt,0.75pt,0.00pt);
+	background      : transparent url(wcbgsite006003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             :1069.50pt;
+	width           : 594.00pt;
+	height          :   0.75pt;
+	}
+h4#e47              { /* Links */
+	text-align      : right;
+	position        : absolute;
+	left            : 564.75pt;
+	top             :  61.50pt;
+	width           :  59.25pt;
+	height          :  21.75pt;
+	}
+div#e46             { /* Back to top of page */
+	position        : absolute;
+	left            : 264.75pt;
+	top             :1053.75pt;
+	width           : 106.50pt;
+	height          :  14.25pt;
+	}
+img#e45             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            : 243.75pt;
+	top             :1052.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e44             { /* <DIV>I Forge Iron -Black... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 183.75pt;
+	width           : 361.50pt;
+	height          :  34.50pt;
+	}
+div#e43             { /* <DIV>Anvilfire - Blacksm... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 133.50pt;
+	width           : 341.25pt;
+	height          :  39.00pt;
+	}
+div#e42             { /* <DIV>Artist-Blacksmith's... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             :  78.00pt;
+	width           : 342.75pt;
+	height          :  35.25pt;
+	}
+div#e41             { /* <DIV>Lucian Avery&nbsp;-... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 237.75pt;
+	width           : 361.50pt;
+	height          :  19.50pt;
+	}
+div#e40             { /* <A href="http://www.luci... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 252.00pt;
+	width           : 365.25pt;
+	height          :  15.75pt;
+	}
+div#e39             { /* <DIV>Chileforge&nbsp; -P... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 288.00pt;
+	width           : 277.50pt;
+	height          :  21.75pt;
+	}
+div#e38             { /* <A href="http://www.chil... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 301.50pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e37             { /* <DIV>David Robertson -Bl... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 339.75pt;
+	width           : 300.75pt;
+	height          :  21.75pt;
+	}
+div#e36             { /* <A href="http://artistbl... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 354.00pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e35             { /* <DIV>Also look for his v... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 369.00pt;
+	width           : 300.75pt;
+	height          :  21.75pt;
+	}
+div#e34             { /* <DIV>Front Step Forge - ... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 414.75pt;
+	width           : 389.25pt;
+	height          :  29.25pt;
+	}
+div#e33             { /* <A href="http://www.fron... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 444.00pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e32             { /* <DIV>Northern Alberta In... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 481.50pt;
+	width           : 377.25pt;
+	height          :  55.50pt;
+	}
+div#e31             { /* <A href="http://www.http... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 541.50pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e30             { /* <DIV>Leduc West&nbsp; An... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 580.50pt;
+	width           : 333.00pt;
+	height          :  28.50pt;
+	}
+div#e29             { /* <A href="http://www.ledu... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 598.50pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e28             { /* <DIV>Dodds Coal Mine - T... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 636.00pt;
+	width           : 379.50pt;
+	height          :  28.50pt;
+	}
+div#e27             { /* <A href="http://www.dodd... */
+	position        : absolute;
+	left            : 192.75pt;
+	top             : 654.00pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e26             { /* <DIV>Western Canadian Bl... */
+	position        : absolute;
+	left            : 193.50pt;
+	top             : 827.25pt;
+	width           : 360.75pt;
+	height          :  28.50pt;
+	}
+div#e25             { /* <A href="http://www.albe... */
+	position        : absolute;
+	left            : 193.50pt;
+	top             : 858.00pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+h6#e24              { /* Contact Us */
+	position        : absolute;
+	left            : 402.00pt;
+	top             : 894.75pt;
+	width           :  78.00pt;
+	height          :  15.00pt;
+	}
+img#e23             { /* wcbgsite006002.gif */
+	position        : absolute;
+	left            : 394.50pt;
+	top             : 893.25pt;
+	width           :  18.75pt;
+	height          :  18.75pt;
+	}
+div#e22             { /* <DIV>Mailing Address: <B... */
+	position        : absolute;
+	left            : 195.75pt;
+	top             : 879.00pt;
+	width           : 189.75pt;
+	height          :  78.00pt;
+	}
+img#e21             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 243.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e20             { /* Home */
+	color           : #00ff00;
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             :  81.00pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+a#a20               { /* Home */
+	color           : #00ff00;
+	}
+div#e19             { /* Meetings & Events */
+	text-align      : left;
+	position        : absolute;
+	left            :  60.75pt;
+	top             : 108.75pt;
+	width           :  98.25pt;
+	height          :  14.25pt;
+	}
+div#e18             { /* Resources */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 136.50pt;
+	width           :  81.75pt;
+	height          :  26.25pt;
+	}
+div#e17             { /* News */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 164.25pt;
+	width           :  81.75pt;
+	height          :  20.25pt;
+	}
+div#e16             { /* Links */
+	text-align      : left;
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 218.25pt;
+	width           :  81.75pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* Membership Form */
+	text-align      : left;
+	position        : absolute;
+	left            :  60.00pt;
+	top             : 241.50pt;
+	width           :  81.75pt;
+	height          :  26.25pt;
+	}
+div#e14             { /* Gallery */
+	text-align      : left;
+	position        : absolute;
+	left            :  62.25pt;
+	top             : 189.00pt;
+	width           :  81.75pt;
+	height          :  14.25pt;
+	}
+img#e13             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 219.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e12             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 187.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e11             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 164.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e10             { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 137.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e9              { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 109.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e8              { /* wcbgsite001002.gif */
+	background-color: transparent;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  81.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+h1#e7               { /* Western Canadian Blacksm... */
+	text-align      : right;
+	position        : absolute;
+	left            : 252.75pt;
+	top             :  26.25pt;
+	width           : 372.75pt;
+	height          :  53.25pt;
+	}
+span#e6             { /* wcbgsite001001.jpg */
+	background      : transparent url(wcbgsite001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 282.75pt;
+	width           : 139.50pt;
+	height          : 124.50pt;
+	}
+div#e5              { /* <DIV>Western Canadian Bl... */
+	position        : absolute;
+	left            : 192.00pt;
+	top             : 978.75pt;
+	width           : 360.75pt;
+	height          :  47.25pt;
+	}
+div#e4              { /* <DIV>Canadian Knife Make... */
+	position        : absolute;
+	left            : 193.50pt;
+	top             : 699.75pt;
+	width           : 379.50pt;
+	height          :  28.50pt;
+	}
+div#e3              { /* <A href="http://www.knif... */
+	position        : absolute;
+	left            : 197.25pt;
+	top             : 717.75pt;
+	width           : 281.25pt;
+	height          :  15.75pt;
+	}
+div#e2              { /* <DIV>CANIRON 2017, the C... */
+	position        : absolute;
+	left            : 195.75pt;
+	top             : 753.75pt;
+	width           : 379.50pt;
+	height          :  28.50pt;
+	}
+div#e1              { /* <A href="http://www.cani... */
+	position        : absolute;
+	left            : 195.75pt;
+	top             : 770.25pt;
+	width           : 474.75pt;
+	height          :  18.00pt;
+	}
+body#page           { /* Page Body */
+	background-image: url(yelwdull.jpg);
+	}
+
+
+
+/*--- EndOfFile ---*/
